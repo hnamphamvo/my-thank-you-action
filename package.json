@@ -12,7 +12,7 @@
     "url": "git+https://github.com/hnamphamvo/my-thank-you-action.git"
   },
   "author": "Nam Pham",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/hnamphamvo/my-thank-you-action/issues"
   },

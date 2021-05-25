@@ -12,12 +12,16 @@
     "url": "git+https://github.com/hnamphamvo/my-thank-you-action.git"
   },
   "author": "Nam Pham",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/hnamphamvo/my-thank-you-action/issues"
   },
   "homepage": "https://github.com/hnamphamvo/my-thank-you-action#readme",
   "dependencies": {
     "@vercel/ncc": "^0.28.5"
+  },
+  "devDependencies": {
+    "@actions/core": "^1.3.0",
+    "@actions/github": "^5.0.0"
   }
 }
